@@ -1,0 +1,39 @@
+html{
+    background-color: whitesmoke;
+    margin-left: 25px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Estilos para el contenedor principal */
+.articulo {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para los encabezados */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Estilos para los párrafos */
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Estilos para los enlaces */
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
